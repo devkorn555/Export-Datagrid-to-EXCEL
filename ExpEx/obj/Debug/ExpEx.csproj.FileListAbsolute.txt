@@ -1,0 +1,9 @@
+D:\C#\ExpEx\ExpEx\bin\Debug\ExpEx.exe.config
+D:\C#\ExpEx\ExpEx\bin\Debug\ExpEx.exe
+D:\C#\ExpEx\ExpEx\bin\Debug\ExpEx.pdb
+D:\C#\ExpEx\ExpEx\obj\Debug\ExpEx.csprojResolveAssemblyReference.cache
+D:\C#\ExpEx\ExpEx\obj\Debug\ExpEx.Form1.resources
+D:\C#\ExpEx\ExpEx\obj\Debug\ExpEx.Properties.Resources.resources
+D:\C#\ExpEx\ExpEx\obj\Debug\ExpEx.csproj.GenerateResource.Cache
+D:\C#\ExpEx\ExpEx\obj\Debug\ExpEx.exe
+D:\C#\ExpEx\ExpEx\obj\Debug\ExpEx.pdb
